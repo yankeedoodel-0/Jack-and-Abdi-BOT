@@ -8,7 +8,7 @@
   "server": {
     "ip": "monkeysJE.aternos.me",
     "port": 28266,
-    "version": "",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
